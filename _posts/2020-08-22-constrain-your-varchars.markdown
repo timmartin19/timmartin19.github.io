@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "MySQL Internals: A Review"
+title:      "Constrain Your VARCHARs"
 date:       2020-08-22 16:31:00 -0500
 categories: MySQL performance deep-learning learning-path high-performance-mysql
 ---
