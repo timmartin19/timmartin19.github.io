@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "MySQL Internals: A Review"
-date:       2020-08-22 21:29:00 -0500
+date:       2020-08-22 16:00:00 -0500
 categories: MySQL performance deep-learning learning-path
 ---
 
