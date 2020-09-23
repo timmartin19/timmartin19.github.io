@@ -2,7 +2,7 @@
 layout:     post
 title:      "MySQL Internals: A Review"
 date:       2020-08-22 16:00:00 -0500
-categories: MySQL performance deep-learning learning-path
+categories: MySQL performance review deep-learning learning-path
 ---
 
 Lately, I've felt like I don't understand the underlying tools I use on a day-to-day

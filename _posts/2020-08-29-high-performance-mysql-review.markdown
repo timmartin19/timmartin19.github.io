@@ -2,7 +2,7 @@
 layout:     post
 title:      "High Performance MySQL: A Review"
 date:       2020-08-29 18:19:00 -0500
-categories: MySQL performance deep-learning learning-path
+categories: MySQL performance review deep-learning learning-path
 ---
 
 As part of my attempt at [learning MySQL more deeply], I picked up the book
